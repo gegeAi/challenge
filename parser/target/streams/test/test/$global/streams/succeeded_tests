@@ -1,0 +1,5 @@
+#Successful Tests
+#Tue Sep 18 13:05:00 CEST 2018
+com.jliermann.parser.TransactionsSpec=1537268700304
+com.jliermann.parser.QuantitiesWithPriceSpec=1537268700215
+com.jliermann.parser.PricesSpec=1537268700165

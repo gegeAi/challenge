@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTransactionsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmapLine[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return some transaction if no error occurs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmapClass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert a Transaction to a string[0m[0m

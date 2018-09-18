@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: slf4j-simple-1.7.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: slf4j-api-1.7.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scalactic_2.11-3.0.5.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-arm_2.11-2.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scopt_2.11-3.7.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-reflect-2.11.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-library-2.11.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0mdebug[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.properties' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-api/pom.xml' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-simple/pom.properties' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/org.slf4j/slf4j-simple/pom.xml' with strategy 'discard'[0m
+[0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to 5 files (Run the task at debug level to see details)[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /home/jerome/projects/challenge/top/target/scala-2.11/top100.jar[0m

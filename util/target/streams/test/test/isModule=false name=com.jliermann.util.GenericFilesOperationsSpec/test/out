@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mGenericFilesOperationsSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbufferedWriting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw an ErrorOnFileCreation if file can't be created[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create every subdirectories and file if they don't exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should append to a file by default[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should write over if specified[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mforeachReading[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should do the required operation for each line of the file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mreduceReading[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should do the required aggregation operation for each line of the file[0m[0m

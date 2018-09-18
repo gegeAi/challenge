@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDateRangeSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32miterator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a value per day with begin and end date included[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return an iterator of one date if begin and end happen on same day[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32madjustToWeeks[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return longer range beginning on a monday, ending on a sunday[0m[0m

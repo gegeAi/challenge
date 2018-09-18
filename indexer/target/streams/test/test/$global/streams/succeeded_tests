@@ -1,0 +1,4 @@
+#Successful Tests
+#Tue Sep 18 13:05:00 CEST 2018
+com.jliermann.indexer.TransactionsReaderSpec=1537268700695
+com.jliermann.indexer.IndexedTransactionsWriterSpec=1537268700745

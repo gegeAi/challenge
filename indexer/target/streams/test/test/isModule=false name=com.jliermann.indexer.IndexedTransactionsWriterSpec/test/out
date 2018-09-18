@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mIndexedTransactionsWriterSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgetSaveFilePath[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return an indexed file path given a date, a product and a store of a transaction[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32maddLineIfExists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should write a transaction into the corresponding file if the transaction is defined[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should append lines if many must be written in the same file[0m[0m

@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mQuantitiesWithPriceSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmapLine[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return some QuantityWithPrice if no error occurs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmapClass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert a QuantityWithPrice to a string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfromQuantityAndPrice[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return some QuantityWithPrice if quantity and price product's id match[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return None if product's ids don't match[0m[0m
